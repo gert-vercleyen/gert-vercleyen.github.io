@@ -5,4 +5,4 @@ title: "Posters"
 
 # Posters
 
-![alt text](PosterFusionRings.png "Poster on Low Rank Fusion Rings")
+![alt text](PosterFusionRings.pdf "Poster on Low Rank Fusion Rings")
