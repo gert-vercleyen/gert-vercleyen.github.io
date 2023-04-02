@@ -1,1 +1,1 @@
-![alt text](FusionRings.pdf "Title")
+![alt text](PosterFusionRings.pdf "Title")
