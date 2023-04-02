@@ -1,1 +1,1 @@
-![alt text](PosterFusionRings.pdf "Title")
+![alt text](PosterFusionRings.png "Poster on Low Rank Fusion Rings")
