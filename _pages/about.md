@@ -86,13 +86,4 @@ Note that (especially for the fusion categories poster) it might take some time 
 * 2020 — Tutorials on Vector Algebra and Matrices for first-year engineering students in Maynooth
 * 2019 — Tutorials on Quantum Computing for graduate students at Ghent University. Also wrote and marked the exercises of the exam papers
 
-<script>
-  window.op=window.op||function(){var n=[];return new Proxy(function(){arguments.length&&n.push([].slice.call(arguments))},{get:function(t,r){return"q"===r?n:function(){n.push([r].concat([].slice.call(arguments)))}} ,has:function(t,r){return"q"===r}}) }();
-  window.op('init', {
-    clientId: 'YOUR_CLIENT_ID',
-    trackScreenViews: true,
-    trackOutgoingLinks: true,
-    trackAttributes: true,
-  });
-</script>
 <script src="https://openpanel.dev/op1.js" defer async></script>
