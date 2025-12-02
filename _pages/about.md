@@ -40,21 +40,32 @@ My CV can be downloaded [here](/al-folio/assets/pdf/CV_GERT_VERCLEYEN.pdf)
 
 </div>
 # Talks
-* **(Invited) 10-2025** -- **Complete invariants and minimal fields of multiplicity-free fusion categories**, AMS Fall Sectional meeting
-* **(Invited) 10-2025** -- **The AnyonWiki, a digital repository for fusion categories and anyon models** AMS Fall Sectional meeting
-* **(Invited) 07-2025** -- **Techniques for categorifying multiplicity-free fusion rings**, Mathematics seminar Kaiserslautern
-* **04-2025** -- **Anyonica and the AnyonWiki**, Hopf25  Conference on Hopf algebras, quantum groups,
-monoidal categories and related structures
-* **12-2024** -- **Anyonica and the AnyonWiki**, ARTIN in Leeds, Conference on Biracks and Biquandles: Theory, applications, and new perspectives
-* **(Invited) 11-2024** -- **Knots and quantum computing**, Topology Seminar Purdue
-* **(Invited) 09-2024** -- **Intro to Anyonica**, Quantum Research Group Seminar at Purdue
-* **06-2024** -- **Anyonica and the AnyonWiki**, Thematic Program in Field Theory and Topology at Notre Dame University
-* **(Invited) 05-2024** -- **On Low-Rank Multiplicity-Free Fusions Categories**, Quantum groups and monoidal categories seminar at Universite Libre Bruxelles
-* **06-2024** -- **Anyonica and the AnyonWiki**, Great Lakes Mathematical Physics Meeting
-* **(Invited) 12-2022** -- **Knots and quantum computing**, Mathematics seminar at Osnabruck
-* **(Invited) 04-2022** -- **Knots and quantum computing**, Doctoral mini-course on Combinatorial p-Kazhdan-Lustzig Theory 
-* **(Invited) 03-2022**-- **Geometric Algebra**,
-Maynooth theoretical physics seminar
+* **(Invited) 10-2025** -- **Complete invariants and minimal fields of multiplicity-free fusion categories**,   
+  *AMS Fall Sectional meeting*
+* **(Invited) 10-2025** -- **The AnyonWiki, a digital repository for fusion categories and anyon models**,   
+  *AMS Fall Sectional meeting*
+* **(Invited) 07-2025** -- **Techniques for categorifying multiplicity-free fusion rings**,   
+  *Mathematics seminar Kaiserslautern*
+* **04-2025** -- **Anyonica and the AnyonWiki**,    
+  *Hopf25  Conference on Hopf algebras, quantum groups, monoidal categories and related structures*
+* **12-2024** -- **Anyonica and the AnyonWiki**,   
+  *ARTIN in Leeds, Conference on Biracks and Biquandles: Theory, applications, and new perspectives*
+* **(Invited) 11-2024** -- **Knots and quantum computing**,   
+  *Topology Seminar Purdue*
+* **(Invited) 09-2024** -- **Intro to Anyonica**,   
+  *Quantum Research Group Seminar at Purdue*
+* **06-2024** -- **Anyonica and the AnyonWiki**,   
+  *Thematic Program in Field Theory and Topology at Notre Dame University*
+* **(Invited) 05-2024** -- **On Low-Rank Multiplicity-Free Fusions Categories**,   
+  *Quantum groups and monoidal categories seminar at Universite Libre Bruxelles*
+* **06-2024** -- **Anyonica and the AnyonWiki**,    
+  *Great Lakes Mathematical Physics Meeting*
+* **(Invited) 12-2022** -- **Knots and quantum computing**,   
+  *Mathematics seminar at Osnabruck*
+* **(Invited) 04-2022** -- **Knots and quantum computing**,   
+  *Doctoral mini-course on Combinatorial p-Kazhdan-Lustzig Theory *
+* **(Invited) 03-2022**-- **Geometric Algebra**,  
+  *Maynooth theoretical physics seminar*
 
 # Posters
 I like being creative with my research posters. In particular, I love to combine the topics I'm researching with other media I'm engaging with.
@@ -86,4 +97,33 @@ Note that (especially for the fusion categories poster) it might take some time 
 * 2020 — Tutorials on Vector Algebra and Matrices for first-year engineering students in Maynooth
 * 2019 — Tutorials on Quantum Computing for graduate students at Ghent University. Also wrote and marked the exercises of the exam papers
 
-<script src="https://openpanel.dev/op1.js" defer async></script>
+# Referees
+* **Colleen Delaney**  
+  Associate Professor  
+  Department of Mathematics & Department of  Physics and Astronomy  
+  Purdue University   
+  **email: colleend (at) purdue.edu**
+
+* **Eric Samperton**   
+  Assistant Professor   
+  Department of Mathematics & Department of Computer Science   
+  Purdue University   
+  **email: eric (at) purdue.edu**
+
+* **Eric Rowell**  
+  Professor, Presidential Impact Fellow   
+  Department of Mathematics  
+  Texas A & M   
+  **email: rowell (at) math.tamu.edu**
+
+* **Steven Simon**  
+  Professor of Physics and Professorial Fellow of Somerville College   
+  Rudolf Peierls Centre for Theoretical Physics   
+  Oxford University   
+  **email: steven.simon (at) physics.ox.ac.uk**
+
+* **Eddy Ardonne**    
+  Professor  
+  Department of Physics  
+  Stockholm University  
+  **email: ardonne (at) fysik.su.se**
