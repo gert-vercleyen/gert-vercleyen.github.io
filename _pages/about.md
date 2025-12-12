@@ -29,7 +29,7 @@ At the moment, the [AnyonWiki](https://anyonwiki.github.io/) contains
 
 Take a look at my current [projects](/al-folio/projects) page to learn more about the future plans for the wiki.
 
-My CV can be downloaded [here](/assets/pdf/CV_GERT_VERCLEYEN.pdf)
+My CV can be downloaded [here](assets/pdf/CV_GERT_VERCLEYEN.pdf)
 
 # Papers
 {% include bib_search.liquid %}
