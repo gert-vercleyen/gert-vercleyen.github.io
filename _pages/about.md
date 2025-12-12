@@ -127,7 +127,7 @@ Note that (especially for the fusion categories poster) it might take some time 
   Stockholm University  
   **email: ardonne (at) fysik.su.se**
 
-[1]:{{ site.url }}/assets/pdf/GERT_VERCLEYEN_CV.pdf
+[1]:{{ site.url }}/al-folio/assets/pdf/GERT_VERCLEYEN_CV.pdf
 [2]:{{ site.url }}/assets/img/PosterFusionRings.pdf
 [3]:{{ site.url }}/assets/img/Doom.pdf
 
