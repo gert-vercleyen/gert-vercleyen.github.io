@@ -31,16 +31,6 @@ Take a look at my current [projects](/al-folio/projects) page to learn more abou
 
 My CV can be downloaded [here](/assets/pdf/GERT_VERCLEYEN_CV.pdf)
 
-My CV can be downloaded [here](al-folio/assets/pdf/GERT_VERCLEYEN_CV.pdf)
-
-My CV can be downloaded [here](/al-folio/assets/pdf/GERT_VERCLEYEN_CV.pdf)
-
-My CV can be downloaded [here](pdf/GERT_VERCLEYEN_CV.pdf)
-
-My CV can be downloaded [here](/pdf/GERT_VERCLEYEN_CV.pdf)
-
-My CV can be downloaded [here](GERT_VERCLEYEN_CV.pdf)
-
 # Papers
 {% include bib_search.liquid %}
 
@@ -84,8 +74,8 @@ The poster on fusion rings is inspired by The Lord of The Rings, my favorite chi
 Both posters were created with the free and open source application Inkscape.
 
 The images shown below are of limited quality but you can download the pdf files here
-* [Fusion Rings Poster][2]
-* [Fusion Categories Poster][3]
+* [Fusion Rings Poster](/assets/img/PosterFusionRings.pdf)
+* [Fusion Categories Poster](/assets/img/Doom.pdf)
 
 Note that (especially for the fusion categories poster) it might take some time for your pdf viewer to load the whole image.
 
