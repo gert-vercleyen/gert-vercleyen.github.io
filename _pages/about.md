@@ -30,6 +30,15 @@ At the moment, the [AnyonWiki](https://anyonwiki.github.io/) contains
 Take a look at my current [projects](/al-folio/projects) page to learn more about the future plans for the wiki.
 
 My CV can be downloaded [here][1]
+My CV can be downloaded [here][4]
+My CV can be downloaded [here][(assets/pdf/GERT_VERCLEYEN_CV.pdf)]
+My CV can be downloaded [here][(/assets/pdf/GERT_VERCLEYEN_CV.pdf)]
+My CV can be downloaded [here][(al-folio/assets/pdf/GERT_VERCLEYEN_CV.pdf)]
+My CV can be downloaded [here][(/al-folio/assets/pdf/GERT_VERCLEYEN_CV.pdf)]
+My CV can be downloaded [here][(pdf/GERT_VERCLEYEN_CV.pdf)]
+My CV can be downloaded [here][(/pdf/GERT_VERCLEYEN_CV.pdf)]
+My CV can be downloaded [here][(GERT_VERCLEYEN_CV.pdf)]
+
 # Papers
 {% include bib_search.liquid %}
 
@@ -131,4 +140,5 @@ Note that (especially for the fusion categories poster) it might take some time 
 [2]:{{ site.url }}/assets/img/PosterFusionRings.pdf
 [3]:{{ site.url }}/assets/img/Doom.pdf
 
+[1]:{{ site.url }}/assets/pdf/GERT_VERCLEYEN_CV.pdf
 
