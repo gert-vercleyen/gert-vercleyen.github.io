@@ -29,8 +29,7 @@ At the moment, the [AnyonWiki](https://anyonwiki.github.io/) contains
 
 Take a look at my current [projects](/al-folio/projects) page to learn more about the future plans for the wiki.
 
-My CV can be downloaded [here](https://github.com/gert-vercleyen/gert-vercleyen.github.io/blob/main/assets/pdf/GERT_VERCLEYEN_CV.pdf)
-
+My CV can be downloaded [here][1]
 # Papers
 {% include bib_search.liquid %}
 
@@ -74,8 +73,8 @@ The poster on fusion rings is inspired by The Lord of The Rings, my favorite chi
 Both posters were created with the free and open source application Inkscape.
 
 The images shown below are of limited quality but you can download the pdf files here
-* [Fusion Rings Poster](/assets/img/PosterFusionRings.pdf)
-* [Fusion Categories Poster](/assets/img/Doom.pdf)
+* [Fusion Rings Poster][2]
+* [Fusion Categories Poster][3]
 
 Note that (especially for the fusion categories poster) it might take some time for your pdf viewer to load the whole image.
 
@@ -127,3 +126,9 @@ Note that (especially for the fusion categories poster) it might take some time 
   Department of Physics  
   Stockholm University  
   **email: ardonne (at) fysik.su.se**
+
+[1]:{{ site.url }}/assets/pdf/GERT_VERCLEYEN_CV.pdf
+[2]:{{ site.url }}/assets/img/PosterFusionRings.pdf
+[3]:{{ site.url }}/assets/img/Doom.pdf
+
+
