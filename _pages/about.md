@@ -74,8 +74,8 @@ The poster on fusion rings is inspired by The Lord of The Rings, my favorite chi
 Both posters were created with the free and open source application Inkscape.
 
 The images shown below are of limited quality but you can download the pdf files here
-* [Fusion Rings Poster](/al-folio/assets/img/PosterFusionRings.pdf)
-* [Fusion Categories Poster](/al-folio/assets/img/Doom.pdf)
+* ![Fusion Rings Poster](/al-folio/assets/img/PosterFusionRings.pdf)
+* ![Fusion Categories Poster](/al-folio/assets/img/Doom.pdf)
 
 Note that (especially for the fusion categories poster) it might take some time for your pdf viewer to load the whole image.
 
