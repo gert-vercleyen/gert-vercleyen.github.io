@@ -7,11 +7,11 @@ permalink: /projects/
 
 Here you can find some of my current projects.
 
-# Implementing Anyonica's functionality in Julia. 
+## Implementing Anyonica's functionality in Julia. 
 Anyonica has a huge number of useful functions for dealing with fusion categories and equations arising when computing properties
 of these categories. It is a Mathematica package, however, which is non-free, closed source, and yes, slow when it comes to symbolic algebra. Therefore, I am implementing the current functionality of Anyonica in julia (with [OSCAR](https://www.oscar-system.org/)). The first part of the project, a fusion rings package [FusionRings.jl](https://github.com/gert-vercleyen/FusionRings.jl ) is under development with Sami Nasser Zagha.
 
-# Expanding the capabilities of the AnyonWiki. 
+## Expanding the capabilities of the AnyonWiki. 
 The wiki is far from finished. On the one hand, we plan to extend the
 data it contains. In particular, we will add
 * centers of multiplicity-free fusion categories (every center of multiplicity-free fusion categories up to rank 5 has already been constructed by F. Maurer and U. Thiel using their TensorCategories.jl package, and more are being computed at the moment)
