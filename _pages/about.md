@@ -27,7 +27,7 @@ At the moment, the [AnyonWiki](https://anyonwiki.github.io/) contains
 * A list of all multiplicity-free fusion rings up to rank 9 together with downloadable data of their most important properties, such as Frobenius-Perron dimensions, $S$-matrices, characters, decompositions, etc
 * Pages on classes of fusion rings corresponding to certain quantum groups.
 
-Take a look at my current [projects](/al-folio/projects) page to learn more about the future plans for the wiki.
+Take a look at my current projects page to learn more about the future plans for the wiki.
 
 My CV can be downloaded [here](/assets/pdf/GERT_VERCLEYEN_CV.pdf)
 
