@@ -41,9 +41,9 @@ My CV can be downloaded [here](/assets/pdf/GERT_VERCLEYEN_CV.pdf)
 </div>
 # Talks
 * **(Invited) 10-2025** -- **Complete invariants and minimal fields of multiplicity-free fusion categories**,   
-  *AMS Fall Sectional meeting*
+  *AMS Fall Sectional meeting on "Advances in Quantum Topology, Tensor Categories, and Diagrammatic Algebras"*
 * **(Invited) 10-2025** -- **The AnyonWiki, a digital repository for fusion categories and anyon models**,   
-  *AMS Fall Sectional meeting*
+  *AMS Fall Sectional meeting on "New Horizons for Quantum Error Correction: Categorical Approaches to Topological Codes"*
 * **(Invited) 07-2025** -- **Techniques for categorifying multiplicity-free fusion rings**,   
   *Mathematics seminar Kaiserslautern*
 * **04-2025** -- **Anyonica and the AnyonWiki**,    
