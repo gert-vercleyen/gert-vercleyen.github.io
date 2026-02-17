@@ -5,4 +5,11 @@ title: Teaching
 nav: true
 ---
 
-A pdf file containing all lecture notes (including revision sessions) for MA266 Fall 2025 can be downloaded [here](/assets/pdf/allnotes.pdf).
+A pdf file containing all lecture notes (including revision sessions) for MA266 Fall 2025 can be downloaded [here](/assets/pdf/allnotes.pdf). Any resemblance between these notes and any lectures given at Purdue during spring 2026 is nonexistent and a product of your imagination. 
+Below you may also find some stuff I scrambled down for no reason whatsoever. Only a fool would think these are proper notes and I am not responsible for any mistakes, math related PTSD, accidental summoning of demons, breaking of relationships or any other side effects these notes might have. 
+
+* [randomstuff1](/assets/s3.1.pdf)
+* [randomstuff2](/assets/s3.2.pdf)
+* [randomstuff3](/assets/s3.3.pdf)
+* [spam](https://www.spam.com/)
+* [randomstuff5](/assets/s3.5.pdf)
