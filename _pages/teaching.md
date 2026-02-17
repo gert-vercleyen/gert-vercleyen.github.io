@@ -9,7 +9,7 @@ A pdf file containing all lecture notes (including revision sessions) for MA266 
 
 Below you may also find some stuff I scrambled down for no reason whatsoever. Only a fool would think these are proper notes and I am not responsible for any mistakes, math related PTSD, accidental summoning of demons, breaking of relationships, spiritual transformations, or any other side effects these notes might have. 
 
-* [randomstuff1](/assets/pdf/s3.1.pdf)
+* [randomstuff1](/assets/pdf/S3.1.pdf)
 * [randomstuff2](/assets/pdf/s3.2.pdf)
 * [randomstuff3](/assets/pdf/s3.3.pdf)
 * [spam](https://www.spam.com/)
