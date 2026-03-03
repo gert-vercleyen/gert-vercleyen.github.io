@@ -14,5 +14,6 @@ Below you may also find some stuff I scrambled down for no reason whatsoever. On
 * [randomstuff3](/assets/pdf/s3.3.pdf)
 * [spam](https://www.spam.com/)
 * [randomstuff5](/assets/pdf/s3.5.pdf)
-* Coming soon: determinants
+* [deterministic random stuff](/assets/pdf/36.pdf)
 * [Session spéciale sur les espaces vectoriels](/assets/pdf/S4.1-4.2.pdf)
+* [Higher philosophical thoughts on space and dimension](/assets/pdf/4344.pdf)
