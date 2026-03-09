@@ -40,6 +40,7 @@ My CV can be downloaded [here](/assets/pdf/GERT_VERCLEYEN_CV.pdf)
 
 </div>
 # Talks
+* **(Invited) 02-2026** -- **On Low-Rank Multiplicity-Free Fusion Categories**, *Quantum Symmetries Seminar, Ohio State University*
 * **(Invited) 10-2025** -- **Complete invariants and minimal fields of multiplicity-free fusion categories**,   
   *AMS Fall Sectional meeting on "Advances in Quantum Topology, Tensor Categories, and Diagrammatic Algebras"*
 * **(Invited) 10-2025** -- **The AnyonWiki, a digital repository for fusion categories and anyon models**,   
