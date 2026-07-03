@@ -18,9 +18,9 @@ social: true # includes social icons at the bottom of the page
 ---
 # About me
 
-My research focuses on finding and probing properties of (multiplicity-free) fusion categories. To do so I develop software using computational algebra to solve consistency equations arising from commutative diagrams. The data obtained this way is collected as part of packages such as [Anyonica](https://github.com/gert-vercleyen/Anyonica) and, since recently,  [TensorCategories.jl](https://github.com/FabianMaeurer/TensorCategories.jl). I aim to make as much data available online as well on the [AnyonWiki](https://anyonwiki.github.io/).
+My research focuses on finding and probing properties of (multiplicity-free) fusion categories. To do so I develop software using computational algebra to solve consistency equations arising from commutative diagrams. The data obtained this way is collected as part of packages such as [Anyonica](https://github.com/gert-vercleyen/Anyonica) and, since recently,  [TensorCategories.jl](https://github.com/TensorCategories/TensorCategories.jl). I aim to make as much data available online as well on the [AnyonWiki](https://anyonwiki.github.io/).
 
-My main goal is to have a central repository of computational (yet readable) data on fusion categories that is free, open-source, accessible, user friendly for both mathematicians and physicists.
+My main goal is to have a central repository of computational (yet readable) data on fusion categories that is free, open-source, accessible, and user friendly for both mathematicians and physicists.
 
 At the moment, the [AnyonWiki](https://anyonwiki.github.io/) contains
 * The $F$-symbols, $R$-symbols, and pivotal coefficients of all multiplicity-free fusion categories up to rank 7. All data is downloadable in numerical format and also available symbolically as part of the [Anyonica](https://github.com/gert-vercleyen/Anyonica) and, more recently, [TensorCategories.jl](https://github.com/FabianMaeurer/TensorCategories.jl) packages.
