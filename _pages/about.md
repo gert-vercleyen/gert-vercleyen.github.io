@@ -23,7 +23,7 @@ My research focuses on finding and probing properties of (multiplicity-free) fus
 My main goal is to have a central repository of computational (yet readable) data on fusion categories that is free, open-source, accessible, and user friendly for both mathematicians and physicists.
 
 At the moment, the [AnyonWiki](https://anyonwiki.github.io/) contains
-* The $F$-symbols, $R$-symbols, and pivotal coefficients of all multiplicity-free fusion categories up to rank 7. All data is downloadable in numerical format and also available symbolically as part of the [Anyonica](https://github.com/gert-vercleyen/Anyonica) and, more recently, [TensorCategories.jl](https://github.com/FabianMaeurer/TensorCategories.jl) packages.
+* The $F$-symbols, $R$-symbols, and pivotal coefficients of all multiplicity-free fusion categories up to rank 7. All data is downloadable in numerical format and also available symbolically as part of the [Anyonica](https://github.com/gert-vercleyen/Anyonica) and, more recently, [TensorCategories.jl](https://github.com/TensorCategories/TensorCategories.jl) packages.
 * A list of all multiplicity-free fusion rings up to rank 9 together with downloadable data of their most important properties, such as Frobenius-Perron dimensions, $S$-matrices, characters, decompositions, etc
 * Pages on classes of fusion rings corresponding to certain quantum groups.
 
