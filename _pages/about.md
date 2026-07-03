@@ -39,7 +39,10 @@ My CV can be downloaded [here](/assets/pdf/GERT_VERCLEYEN_CV.pdf)
 {% bibliography %}
 
 </div>
+
 # Talks
+
+* 05-2026 -- **Minimal fields and the center of the Haagerup fusion category**, *QuaSy-Con IV, Illinois State University*
 * **(Invited) 02-2026** -- **On Low-Rank Multiplicity-Free Fusion Categories**, *Quantum Symmetries Seminar, Ohio State University*
 * **(Invited) 10-2025** -- **Complete invariants and minimal fields of multiplicity-free fusion categories**,   
   *AMS Fall Sectional meeting on "Advances in Quantum Topology, Tensor Categories, and Diagrammatic Algebras"*
