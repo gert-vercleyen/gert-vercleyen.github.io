@@ -13,21 +13,32 @@ profile:
     <p>Purdue University</p>
     <p>150 N. University Street, West Lafayette</p>
     <p>IN 47907-2067, USA</p>
+    <p> [Purdue Webpage](https://www.math.purdue.edu/people/profile/gvercley.html) </p>
 social: true # includes social icons at the bottom of the page
 
 ---
 # About me
 
-My research focuses on finding and probing properties of (multiplicity-free) fusion categories. To do so I develop software using computational algebra to solve consistency equations arising from commutative diagrams. The data obtained this way is collected as part of packages such as [Anyonica](https://github.com/gert-vercleyen/Anyonica) and, since recently,  [TensorCategories.jl](https://github.com/TensorCategories/TensorCategories.jl). I aim to make as much data available online as well on the [AnyonWiki](https://anyonwiki.github.io/).
+My research focuses on finding and probing properties of (multiplicity-free) fusion categories. To do so, I develop software using computational algebra to solve consistency equations arising from commutative diagrams. The data obtained this way is collected as part of packages such as 
+* [FusionRings](https://github.com/anyonwiki/FusionRings),
+* [Lyctor.jl](https://github.com/anyonwiki/Lyctor) (still in heavy development),
+* [Anyonica](https://github.com/gert-vercleyen/Anyonica),
+* [TensorCategories.jl](https://github.com/TensorCategories/TensorCategories.jl), and
+* [CategoryData.jl](https://github.com/QuantumKitHub/CategoryData.jl), which is used by [TensorKit.jl](https://github.com/QuantumKitHub/TensorKit.jl). 
 
-My main goal is to have a central repository of computational (yet readable) data on fusion categories that is free, open-source, accessible, and user friendly for both mathematicians and physicists.
+My main goal is to have a central repository of computational (yet readable) data on fusion categories that is free, open-source, accessible, and user-friendly for both mathematicians and physicists. Therefore, I co-founded (with J.K. Slingerland) and help build the [AnyonWiki](https://anyonwiki.org): an open-source database of fusion rings and fusion categories for mathematical physics research.
 
-At the moment, the [AnyonWiki](https://anyonwiki.github.io/) contains
-* The $F$-symbols, $R$-symbols, and pivotal coefficients of all multiplicity-free fusion categories up to rank 7. All data is downloadable in numerical format and also available symbolically as part of the [Anyonica](https://github.com/gert-vercleyen/Anyonica) and, more recently, [TensorCategories.jl](https://github.com/TensorCategories/TensorCategories.jl) packages.
-* A list of all multiplicity-free fusion rings up to rank 9 together with downloadable data of their most important properties, such as Frobenius-Perron dimensions, $S$-matrices, characters, decompositions, etc
-* Pages on classes of fusion rings corresponding to certain quantum groups.
-
-Take a look at my current projects page to learn more about the future plans for the wiki.
+At the moment, the [AnyonWiki](https://anyonwiki.org)
+* contains a page for (what we believe are) **all multiplicity-free pivotal (braided) fusion categories up to rank 7**. All F-symbols, R-symbols, and P-symbols are available both numerically and symbolically, and if the category is modular, so are its S-matrix and topological spins,
+* contains **more than 25000 fusion rings**, including a complete catalog of **all multiplicity-free fusion rings up to rank 10**. Each fusion ring has a dedicated page displaying its most important properties such as Frobenius-Perron dimensions, $S$-matrices, characters, decompositions, etc
+* automatically fetches its data from an **[open-source database](https://github.com/anyonwiki/AnyonWikiDatabase)** that
+    * Has all data stored in JSON files that are **readable by any programming language**
+    * Contains all data on rings and categories in **both numeric and symbolic format**
+    * Has explanations on the **interpretation of the data as part of the data**
+* has **download buttons** for each piece of data
+* stores **references for each individual piece of data** as part of the data
+  
+Take a look at my current projects page to learn more about the future plans for the wiki and the packages that support it.
 
 My CV can be downloaded [here](/assets/pdf/GERT_VERCLEYEN_CV.pdf)
 
