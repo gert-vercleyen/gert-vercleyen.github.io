@@ -114,7 +114,7 @@ Note that (especially for the fusion categories poster) it might take some time 
 
 # Referees
 * **Colleen Delaney**  
-  Associate Professor  
+  Assistant Professor  
   Department of Mathematics & Department of  Physics and Astronomy  
   Purdue University   
   **email: colleend (at) purdue.edu**
