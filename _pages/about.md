@@ -13,7 +13,6 @@ profile:
     <p>Purdue University</p>
     <p>150 N. University Street, West Lafayette</p>
     <p>IN 47907-2067, USA</p>
-    <p> [Purdue Webpage](https://www.math.purdue.edu/people/profile/gvercley.html) </p>
 social: true # includes social icons at the bottom of the page
 
 ---
@@ -40,7 +39,9 @@ At the moment, the [AnyonWiki](https://anyonwiki.org)
   
 Take a look at my current projects page to learn more about the future plans for the wiki and the packages that support it.
 
-My CV can be downloaded [here](/assets/pdf/GERT_VERCLEYEN_CV.pdf)
+My **CV** can be downloaded [here](/assets/pdf/GERT_VERCLEYEN_CV.pdf)
+
+The following is my [Purdue Webpage](https://www.math.purdue.edu/people/profile/gvercley.html).
 
 # Papers
 {% include bib_search.liquid %}
