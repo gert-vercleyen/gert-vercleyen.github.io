@@ -53,7 +53,7 @@ My **CV** can be downloaded [here](/assets/pdf/GERT_VERCLEYEN_CV.pdf)
 * Haven't read your own paper? Don't ask me to do it.
 * AI does provide an alternative to search engines, especially when I need help with programming. I don't know how, I don't know why, but search engines today are barely usable. Still, I never ever ever **ever** let AI write to any of my files, nor do I copy-paste AI output into files. Boundaries. "Looks good to me" is not my motto (unless cleaning my room or designing an Elden ring character). 
 * So far, most of my debugging has been done without it, but I might use help from AI in the future. It might see stuff that I overlooked. Again, it will never touch any of my files.
-* I refuse to use AI that provides services to the armies of certain countries. Again: boundaries. I honestly thought everyone in the world agreed that autonomous war drones with AI built in are a bad idea... 
+* I refuse to use AI that provides services to the military of any country. Again: boundaries. I honestly thought everyone in the world agreed that autonomous war drones with AI built in are a bad idea... 
 
 # Papers
 {% include bib_search.liquid %}
