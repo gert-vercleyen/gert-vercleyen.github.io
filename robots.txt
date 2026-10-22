@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gertvercleyen.github.io/al-folio/sitemap.xml
+Sitemap: https://gert-vercleyen.github.io/al-folio/sitemap.xml
