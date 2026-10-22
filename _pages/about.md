@@ -72,14 +72,14 @@ The following is my [Purdue Webpage](https://www.math.purdue.edu/people/profile/
   *Quantum Research Group Seminar at Purdue*
 * **06-2024** -- **Anyonica and the AnyonWiki**,   
   *Thematic Program in Field Theory and Topology at Notre Dame University*
-* **(Invited) 05-2024** -- **On Low-Rank Multiplicity-Free Fusions Categories**,   
-  *Quantum groups and monoidal categories seminar at Universite Libre Bruxelles*
+* **(Invited) 05-2024** -- **On Low-Rank Multiplicity-Free Fusion Categories**,   
+  *Quantum groups and monoidal categories seminar at Université Libre Bruxelles*
 * **06-2024** -- **Anyonica and the AnyonWiki**,    
   *Great Lakes Mathematical Physics Meeting*
 * **(Invited) 12-2022** -- **Knots and quantum computing**,   
-  *Mathematics seminar at Osnabruck*
+  *Mathematics seminar at Osnabrück*
 * **(Invited) 04-2022** -- **Knots and quantum computing**,   
-  *Doctoral mini-course on Combinatorial p-Kazhdan-Lustzig Theory *
+  *Doctoral mini-course on Combinatorial p-Kazhdan-Lusztig Theory *
 * **(Invited) 03-2022**-- **Geometric Algebra**,  
   *Maynooth theoretical physics seminar*
 
